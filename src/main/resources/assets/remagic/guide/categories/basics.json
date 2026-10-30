@@ -1,0 +1,6 @@
+{
+  "name": "remagic.gui.category.basics.name",
+  "icon": "minecraft:amethyst_shard",
+  "description": "remagic.gui.category.basics.desc",
+  "sort_order": 0
+}

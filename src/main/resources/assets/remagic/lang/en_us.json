@@ -1,0 +1,44 @@
+{
+  "itemGroup.remagic": "ReMagic Tab",
+  "item.remagic.diary": "Diary",
+
+  "remagic.configuration.title": "ReMagic Configs",
+  "remagic.configuration.section.remagic.common.toml": "ReMagic Configs",
+  "remagic.configuration.section.remagic.common.toml.title": "ReMagic Configs",
+  "remagic.configuration.items": "Item List",
+  "remagic.configuration.logDirtBlock": "Log Dirt Block",
+  "remagic.configuration.magicNumberIntroduction": "Magic Number Text",
+  "remagic.configuration.magicNumber": "Magic Number",
+
+  "remagic.gui.diary.title": "Diary",
+  "remagic.gui.diary.about_title": "About Diary",
+  "remagic.gui.diary.about_text": "Welcome to the ReMagic Diary!\n\nHere are gathered the secrets of the world's hidden energies, ancient rituals, and artifacts.\n\nSelect a category on the right to begin your journey.",
+  "remagic.gui.diary.categories_title": "Categories",
+  "remagic.gui.diary.entries_title": "Entries",
+  "remagic.gui.diary.default_category_desc": "This section contains all known knowledge and mechanics on this subject.\n\nSelect an entry from the list on the right to open its pages.",
+
+  "remagic.gui.category.basics.name": "Basics of Magic",
+  "remagic.gui.category.basics.desc": "Basic knowledge and essential tools of the magical arts.\n\nSelect an entry from the list on the right to study it.",
+  "remagic.gui.category.rituals.name": "Rituals",
+  "remagic.gui.category.rituals.desc": "Ancient rituals that bend elements and transmute matter.\n\nSelect a ritual from the list on the right to inspect its components.",
+
+  "remagic.gui.entry.mana_crystals.name": "Mana Crystals",
+  "remagic.gui.entry.mana_crystals.page1": "Mana crystals are the primary source of magical energy in the world of ReMagic.\n\nThey form deep underground near clusters of amethyst and redstone.",
+  "remagic.gui.entry.mana_crystals.page2": "Mining these crystals requires an iron pickaxe or better.\n\nBeware: an unstable crystal may release raw energy upon breaking!",
+  "remagic.gui.entry.mana_crystals.page3": "A purified crystal can be placed in an Infusion Altar to recharge wands and arcane capacitors.",
+  "remagic.gui.entry.mana_crystals.page4": "In the future, crafting recipes and altar animations will appear here.",
+
+  "remagic.gui.entry.diary.name": "Diary",
+  "remagic.gui.entry.diary.page1": "The Diary is my main companion in arcane research. Here I will document all the magical knowledge I gather.",
+  "remagic.gui.entry.diary.craft_title": "Crafting a diary",
+  "remagic.gui.entry.diary.craft_desc": "To craft a Diary, combine a regular book with red dye in a crafting grid.",
+  "remagic.gui.entry.diary.image_desc": "The diary cover is adorned with enchanted runes and leather binding.",
+
+  "remagic.gui.entry.infusion_altar.name": "Infusion Altar",
+  "remagic.gui.entry.infusion_altar.page1": "The infusion altar is used to infuse common items with pure magical essence.",
+  "remagic.gui.entry.infusion_altar.page2": "Place an item on the central pedestal and arrange crystals in a circle around it.",
+
+  "remagic.gui.entry.purification_ritual.name": "Ore Purification",
+  "remagic.gui.entry.purification_ritual.page1": "The purification ritual removes impurities and boosts metal yields from raw ore.",
+  "remagic.gui.entry.purification_ritual.page2": "Ignite fire on basalt blocks around the runic circle to begin transmutation."
+}

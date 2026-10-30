@@ -1,0 +1,6 @@
+{
+  "name": "remagic.gui.category.rituals.name",
+  "icon": "minecraft:blaze_powder",
+  "description": "remagic.gui.category.rituals.desc",
+  "sort_order": 1
+}

@@ -1,0 +1,11 @@
+{
+  "category": "basics",
+  "name": "remagic.gui.entry.mana_crystals.name",
+  "sort_order": 1,
+  "pages": [
+    "remagic.gui.entry.mana_crystals.page1",
+    "remagic.gui.entry.mana_crystals.page2",
+    "remagic.gui.entry.mana_crystals.page3",
+    "remagic.gui.entry.mana_crystals.page4"
+  ]
+}

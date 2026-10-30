@@ -1,0 +1,9 @@
+{
+  "category": "basics",
+  "name": "remagic.gui.entry.infusion_altar.name",
+  "sort_order": 2,
+  "pages": [
+    "remagic.gui.entry.infusion_altar.page1",
+    "remagic.gui.entry.infusion_altar.page2"
+  ]
+}

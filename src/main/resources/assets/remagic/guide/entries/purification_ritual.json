@@ -1,0 +1,9 @@
+{
+  "category": "rituals",
+  "name": "remagic.gui.entry.purification_ritual.name",
+  "sort_order": 0,
+  "pages": [
+    "remagic.gui.entry.purification_ritual.page1",
+    "remagic.gui.entry.purification_ritual.page2"
+  ]
+}

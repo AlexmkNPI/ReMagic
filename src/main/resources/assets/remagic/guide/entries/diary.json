@@ -1,0 +1,23 @@
+{
+  "category": "basics",
+  "name": "remagic.gui.entry.diary.name",
+  "sort_order": 0,
+  "pages": [
+    "remagic.gui.entry.diary.page1",
+    {
+      "type": "crafting",
+      "recipe": "remagic:diary",
+      "text": "remagic.gui.entry.diary.craft_desc",
+      "title": "remagic.gui.entry.diary.craft_title"
+    },
+    {
+      "type": "image",
+      "image": "remagic:textures/item/book_diary.png",
+      "width": 32,
+      "height": 32,
+      "texture_width": 16,
+      "texture_height": 16,
+      "text": "remagic.gui.entry.diary.image_desc"
+    }
+  ]
+}

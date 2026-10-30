@@ -1,0 +1,44 @@
+{
+  "itemGroup.remagic": "ReMagic",
+  "item.remagic.diary": "Дневник",
+
+  "remagic.configuration.title": "Конфигурация ReMagic",
+  "remagic.configuration.section.remagic.common.toml": "Настройки ReMagic",
+  "remagic.configuration.section.remagic.common.toml.title": "Настройки ReMagic",
+  "remagic.configuration.items": "Список предметов",
+  "remagic.configuration.logDirtBlock": "Логировать блок земли",
+  "remagic.configuration.magicNumberIntroduction": "Текст магического числа",
+  "remagic.configuration.magicNumber": "Магическое число",
+
+  "remagic.gui.diary.title": "Дневник",
+  "remagic.gui.diary.about_title": "О дневнике",
+  "remagic.gui.diary.about_text": "Добро пожаловать в дневник ReMagic!\n\nЗдесь собраны знания о скрытых энергиях мира, артефактах и древних таинствах.\n\nВыберите раздел справа, чтобы начать изучение.",
+  "remagic.gui.diary.categories_title": "Разделы дневника",
+  "remagic.gui.diary.entries_title": "Список записей",
+  "remagic.gui.diary.default_category_desc": "В этом разделе собраны все известные сведения и механики по данной теме.\n\nВыберите нужную запись из списка справа, чтобы открыть её разворот.",
+
+  "remagic.gui.category.basics.name": "Основы магии",
+  "remagic.gui.category.basics.desc": "Базовые знания и ключевые инструменты магии.\n\nВыберите нужную запись из списка справа, чтобы открыть её разворот.",
+  "remagic.gui.category.rituals.name": "Ритуалы",
+  "remagic.gui.category.rituals.desc": "Древние ритуалы позволяют управлять стихиями и преобразовывать материю.\n\nВыберите ритуал из списка справа для изучения кругов и компонентов.",
+
+  "remagic.gui.entry.mana_crystals.name": "Кристаллы маны",
+  "remagic.gui.entry.mana_crystals.page1": "Кристаллы маны — основной источник магической энергии в мире ReMagic.\n\nОни зарождаются глубоко под землей вблизи скоплений аметиста и редстоуна.",
+  "remagic.gui.entry.mana_crystals.page2": "Для сбора кристаллов требуется железная кирка или выше.\n\nБудьте осторожны: нестабильный кристалл при разрушении может вызвать выброс сырой энергии!",
+  "remagic.gui.entry.mana_crystals.page3": "Очищенный кристалл можно поместить в Алтарь Наполнения для зарядки жезлов и магических накопителей.",
+  "remagic.gui.entry.mana_crystals.page4": "В будущем здесь будет отображаться рецепт крафта кристаллов и анимация алтаря.",
+
+  "remagic.gui.entry.diary.name": "Дневник",
+  "remagic.gui.entry.diary.page1": "Дневник - мой главный спутник в исследованиях. В него я буду записывать все собранные знания о магии.",
+  "remagic.gui.entry.diary.craft_title": "Создание дневника",
+  "remagic.gui.entry.diary.craft_desc": "Если я потеряю дневник, я смогу заново создать его с помощью этого крафта.",
+  "remagic.gui.entry.diary.image_desc": "Обложка дневника покрашена в красный дял отличия от других книг.",
+
+  "remagic.gui.entry.infusion_altar.name": "Алтарь наполнения",
+  "remagic.gui.entry.infusion_altar.page1": "Алтарь наполнения служит для насыщения обычных предметов чистой эссенцией маны.",
+  "remagic.gui.entry.infusion_altar.page2": "Поместите предмет на центральный постамент и расположите кристаллы по кругу.",
+
+  "remagic.gui.entry.purification_ritual.name": "Очищение руды",
+  "remagic.gui.entry.purification_ritual.page1": "Ритуал очищения позволяет удалять примеси и увеличивать выход металлов из руды.",
+  "remagic.gui.entry.purification_ritual.page2": "Зажгите огонь на базальтовых блоках вокруг рунического круга для начала трансмутации."
+}
